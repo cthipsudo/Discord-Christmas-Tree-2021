@@ -5,9 +5,10 @@ body, #root {
 }
 
 html {
-  background: url(./images/woodbg.jpg);
+  background: url(./images/dark-forest.webp);
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 
@@ -17,8 +18,22 @@ html {
 
 .scene-base {
   background: url('./images/scene-base.jpg');
-  background-size: contain;
+  background-color: #000;
+  background-size: cover;
   background-repeat: no-repeat;
   width: 1280px;
   height: 720px;
+  border: 2px solid #000;
+  border-radius: .25rem;
+}
+
+header h1 {
+  
+  color: white;
+  text-shadow:
+      3px 3px 0 #000,
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+     -1px 1px 0 #000,
+      1px 1px 0 #000;
 }
