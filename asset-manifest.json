@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Discord-Christmas-Tree-2021/static/css/main.f761a92f.css",
+    "main.js": "/Discord-Christmas-Tree-2021/static/js/main.eeea8a2b.js",
+    "static/media/dark-forest.webp": "/Discord-Christmas-Tree-2021/static/media/dark-forest.1b5a3a8ca8518c91ed4b.webp",
+    "static/media/scene-base.jpg": "/Discord-Christmas-Tree-2021/static/media/scene-base.3dae58e07adf1ccb55a7.jpg",
+    "index.html": "/Discord-Christmas-Tree-2021/index.html",
+    "main.f761a92f.css.map": "/Discord-Christmas-Tree-2021/static/css/main.f761a92f.css.map",
+    "main.eeea8a2b.js.map": "/Discord-Christmas-Tree-2021/static/js/main.eeea8a2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f761a92f.css",
+    "static/js/main.eeea8a2b.js"
+  ]
+}
