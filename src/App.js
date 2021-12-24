@@ -1,9 +1,12 @@
 import './App.css';
 
+//Components
+import SceneBase from './components/SceneBase';
+
 function App() {
   return (
-    <div className="App">
-      <h1 className=''>Hello React Starter</h1>
+    <div className="App flex items-center justify-center">
+      <SceneBase />
     </div>
   );
 }

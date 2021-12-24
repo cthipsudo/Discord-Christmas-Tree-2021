@@ -4,7 +4,21 @@ body, #root {
   scroll-behavior: smooth;
 }
 
+html {
+  background: url(./images/woodbg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 
 .App {
-  
+  height: 100%;
+}
+
+.scene-base {
+  background: url('./images/scene-base.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 1280px;
+  height: 720px;
 }
