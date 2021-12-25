@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f2062016.css",
+    "main.css": "/static/css/main.610da303.css",
     "main.js": "/static/js/main.d8bcc943.js",
     "static/js/845.b060b3f7.chunk.js": "/static/js/845.b060b3f7.chunk.js",
     "static/media/boom.png": "/static/media/boom.74ac4987cabe3a00a1c5.png",
@@ -18,7 +18,6 @@
     "static/media/lowain-funny.png": "/static/media/lowain-funny.b7da8dc132039b1b1613.png",
     "static/media/ryudeus-mentor.png": "/static/media/ryudeus-mentor.8b89e286ad16965a1171.png",
     "static/media/chawa.png": "/static/media/chawa.4e62063415b962eada55.png",
-    "static/media/scene-base.jpg": "/static/media/scene-base.8415739deb3261cf268b.jpg",
     "static/media/suicide-squad.png": "/static/media/suicide-squad.4e34e587762018b3e1ee.png",
     "static/media/dnd-sayings.png": "/static/media/dnd-sayings.6ab368af5d53d17e54c2.png",
     "static/media/kindron-strong.png": "/static/media/kindron-strong.d3d3618b0c73b2efe6f7.png",
@@ -26,6 +25,7 @@
     "static/media/actually_racist.png": "/static/media/actually_racist.8fc1b52d575af82dc9f7.png",
     "static/media/mean-dron.png": "/static/media/mean-dron.ee89e9e43910eff75cab.png",
     "static/media/lokuri.gif": "/static/media/lokuri.840cd72e5bb06f1d0b59.gif",
+    "static/media/scene-base.webp": "/static/media/scene-base.6caab492af879ecf36be.webp",
     "static/media/night-terror.png": "/static/media/night-terror.6ac15d8b90dc4218b3c9.png",
     "static/media/no-franz.png": "/static/media/no-franz.4a069617b86025184571.png",
     "static/media/ror.webp": "/static/media/ror.c51870e609e9cb50a554.webp",
@@ -112,12 +112,12 @@
     "static/media/juan.webp": "/static/media/juan.e8a51cad5c9abcfe3ed6.webp",
     "static/media/leixia.webp": "/static/media/leixia.45f9efe08fff796aad36.webp",
     "index.html": "/index.html",
-    "main.f2062016.css.map": "/static/css/main.f2062016.css.map",
+    "main.610da303.css.map": "/static/css/main.610da303.css.map",
     "main.d8bcc943.js.map": "/static/js/main.d8bcc943.js.map",
     "845.b060b3f7.chunk.js.map": "/static/js/845.b060b3f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2062016.css",
+    "static/css/main.610da303.css",
     "static/js/main.d8bcc943.js"
   ]
 }
