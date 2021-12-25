@@ -35,7 +35,39 @@ body, #root {
   height: 720px;
   border: 2px solid #000;
   border-radius: .25rem;
+
+  position: relative;
 }
+
+.scene-base .destiny-title {
+  position: absolute;
+  left: 325px;
+  top: 40px;
+
+  height: 150px;
+  width: 200px;
+  z-index: 1;
+}
+
+.scene-base .destiny-title .caption {
+  display: none;
+  color: white;
+  text-shadow:
+      3px 3px 0 #000,
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+     -1px 1px 0 #000,
+      1px 1px 0 #000;
+  text-align: center;
+  transform: rotate(7deg);
+  margin-bottom: -35px;
+  margin-left: -40px;
+}
+
+.scene-base .destiny-title:hover .caption {
+  display: initial;
+}
+
 
 header h1 {
   color: white;

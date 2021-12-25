@@ -102,6 +102,7 @@
 @keyframes millie-anim-2 {
   0% {
     right: 280px;
+    opacity: 0;
   }
 
   50% {
