@@ -108,9 +108,11 @@ body, #root {
 .da-modal {
   height: 100%;
 }
+.da-modal h2.top {
+  padding-top: 100px;
+}
 .da-modal h2 {
   text-decoration: underline;
-  padding-top: 100px;
 }
 
 .da-modal img {
