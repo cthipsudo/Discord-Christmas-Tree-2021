@@ -7,7 +7,6 @@ import memeData from "../data/memedata";
 const handleDragStart = (e) => e.preventDefault();
 
 const Memebook = () => {
-  let subtitle;
   const [modalIsOpen, setIsOpen] = useState(false);
   let memes;
   
@@ -23,8 +22,7 @@ const Memebook = () => {
   }
 
   function afterOpenModal() {
-    // references are now sync'd and can be accessed.
-    subtitle.style.color = "#f00";
+    
   }
 
   function closeModal() {
@@ -46,7 +44,7 @@ const Memebook = () => {
           <div className="flex w-full justify-center">
             <div className="text-center"> 
               <h2 className="top text-4xl font-bold">Memorable Moments/Memes</h2>
-              <h2 className="text-2xl">(Hover over the image to pause the scroll)</h2>
+              <h2 className="text-2xl pb-12">(Hover over the image to pause the scroll)</h2>
             </div>
           </div>
           <Carousel className="cara" autoplay={true} heightMode="max" wrapAround={true} autoplayInterval={2000}>

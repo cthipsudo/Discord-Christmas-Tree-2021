@@ -96,6 +96,19 @@ body, #root {
   transform: rotate(30deg);
   z-index: 1;
 }
+
+.scene-base .tree-star {
+  position: absolute;
+  top: 120px;
+  left: 41%;
+
+  height: 60px;
+  width: 60px;
+  z-index: 2;
+  background-image: url('./images/santa-chase.png');
+  background-size: contain;
+}
+
 .ReactModalPortal {
   position: relative;
   z-index: 2;
@@ -122,14 +135,21 @@ body, #root {
   cursor: pointer;
 }
 
-.da-modal .cara .slider-slide, .da-modal .cara .slider-list {
-  height: 100% !important;
+.da-modal .cara {
+  height: initial !important;
 }
+
 .da-modal .cara .slider-slide {
+  height:  auto !important;
   display: flex !important;
   justify-content: center;
   align-items: center;
 }
+.da-modal .cara .slider-frame {
+  display: flex !important;
+  align-items: center;
+} 
+
 
 .discord-members {
   max-width: 1280px;
