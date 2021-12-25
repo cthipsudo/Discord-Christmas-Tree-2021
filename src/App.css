@@ -184,6 +184,10 @@ body, #root {
   color: #aaa;
 }
 
+.mobile-max-check {
+  display: none;
+}
+
 header{
   margin-top: 200px;
 }
@@ -199,3 +203,21 @@ header h1 {
 }
 
 /* animations */
+
+
+@media screen and (max-width: 1279px) {
+  .app{
+    display: none;
+  }
+  .app-wrapper{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .mobile-max-check {
+    display: flex;
+    background-color: ivory;
+    padding: 40px;
+  }
+}

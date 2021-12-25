@@ -17,6 +17,14 @@ function App() {
         <SceneBase />
         <DiscordMembers />
       </div>
+      <div className="mobile-max-check flex items-center text-center">
+        Hello, sorry this app does not work on mobile.
+        <br/>
+        Please use this app on a screen 1280px width or wider.
+        <br/>
+        <br/>
+        Apologies and Merry Christmas!     
+        </div>
     </div>
   );
 }
