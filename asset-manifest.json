@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.610da303.css",
-    "main.js": "/static/js/main.d8bcc943.js",
+    "main.css": "/static/css/main.64df4ece.css",
+    "main.js": "/static/js/main.f96fa2a1.js",
     "static/js/845.b060b3f7.chunk.js": "/static/js/845.b060b3f7.chunk.js",
     "static/media/boom.png": "/static/media/boom.74ac4987cabe3a00a1c5.png",
     "static/media/Dream.mp3": "/static/media/Dream.74157a288c95cd179612.mp3",
@@ -12,6 +12,7 @@
     "static/media/ryudeus-epic.png": "/static/media/ryudeus-epic.db47516c5463a153d759.png",
     "static/media/main-bg.webp": "/static/media/main-bg.c0d9c6e481a89ac0f2ff.webp",
     "static/media/ryudeus.png": "/static/media/ryudeus.8f08f1376240c9606058.png",
+    "static/media/among-us.mp3": "/static/media/among-us.23f537b93b6286df1181.mp3",
     "static/media/toxic-sybil.png": "/static/media/toxic-sybil.47777d99f32a71adf79b.png",
     "static/media/cowbois.webp": "/static/media/cowbois.a0c4f16ca3080edd897f.webp",
     "static/media/dnd-meme.webp": "/static/media/dnd-meme.5afa21ab2e474926c7eb.webp",
@@ -33,6 +34,7 @@
     "static/media/actual-rose.png": "/static/media/actual-rose.937b927b601c2c88a53f.png",
     "static/media/lance_moment.mp4": "/static/media/lance_moment.ff736d25ffd21663259a.mp4",
     "static/media/redki.gif": "/static/media/redki.24099a21ec0fd77f0e04.gif",
+    "static/media/among-us.gif": "/static/media/among-us.39c8664b35f0313f0196.gif",
     "static/media/xiado-key.png": "/static/media/xiado-key.08ccb457ed6631cb8e00.png",
     "static/media/phas-scare.mp3": "/static/media/phas-scare.ee9fc9d7a084d5052a11.mp3",
     "static/media/millie.png": "/static/media/millie.68147115c51a7e3aff2b.png",
@@ -112,12 +114,12 @@
     "static/media/juan.webp": "/static/media/juan.e8a51cad5c9abcfe3ed6.webp",
     "static/media/leixia.webp": "/static/media/leixia.45f9efe08fff796aad36.webp",
     "index.html": "/index.html",
-    "main.610da303.css.map": "/static/css/main.610da303.css.map",
-    "main.d8bcc943.js.map": "/static/js/main.d8bcc943.js.map",
+    "main.64df4ece.css.map": "/static/css/main.64df4ece.css.map",
+    "main.f96fa2a1.js.map": "/static/js/main.f96fa2a1.js.map",
     "845.b060b3f7.chunk.js.map": "/static/js/845.b060b3f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.610da303.css",
-    "static/js/main.d8bcc943.js"
+    "static/css/main.64df4ece.css",
+    "static/js/main.f96fa2a1.js"
   ]
 }
