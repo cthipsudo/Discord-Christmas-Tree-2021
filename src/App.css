@@ -68,12 +68,29 @@ body, #root {
   display: initial;
 }
 
-.discord-members {
-  max-width: 1280px;
+.scene-base .hover-scare {
+  position: absolute;
+  right: 270px;
+  top: 28px;
+
+  height: 90px;
+  width: 100px;
+  transform: skew(15deg, -20deg);
+  z-index: 1;
+  cursor: pointer;
 }
 
-.discord-members .styles-module_item-container__a8zaY {
+.scene-base .hover-scare:hover {
   
+  background: url('./images/hover-scare.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: .8;
+}
+
+.discord-members {
+  max-width: 1280px;
 }
 
 .discord-members .member-name {
