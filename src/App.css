@@ -135,7 +135,7 @@ body, #root {
   background-repeat: no-repeat;
   z-index: 1;
   transition: 0.5s ease;
-  animation: main-anim 20s infinite ease;
+  animation: main-anim 10s infinite ease;
 }
 
 .ReactModalPortal {
@@ -262,41 +262,22 @@ header h1 {
 @keyframes main-anim {
   0%{
     background-image: url('./images/main/josh.png');
-
   }
-  30%{
-    background-image: rgb(0,0,0,0);
-    opacity: 0;
-  }
-  40%{
+  25%{
     background-image: url('./images/main/makima.png');
     opacity: 100;
   }
   50%{
-    background-image: rgb(0,0,0,0);
-    opacity: 0;
-  }
-  60%{
     background-image: url('./images/main/nft.png');
     opacity: 100;
   }
-  70%{
-    background-image: rgb(0,0,0,0);
-    opacity: 0;
-  }
-  80%{
+  75%{
     background-image: url('./images/main/turkey-sean.png');
     opacity: 100;
   }
-  90%{
-    background-image: rgb(0,0,0,0);
+  100%{
     opacity: 0;
   }
-  100%{
-    background-image: url('./images/main/josh.png');
-    opacity: 100;
-  }
-  
 }
 
 

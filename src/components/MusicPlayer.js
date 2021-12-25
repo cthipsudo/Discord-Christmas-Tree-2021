@@ -35,7 +35,7 @@ const MusicPlayer = () => {
     stop();
     setPlaying(false);
     //console.log(songIndex);
-    if (songIndex == playlist.length - 1) {
+    if (songIndex === playlist.length - 1) {
       setSongIndex(0);
       setSoundUrl(Object.values(playlist[songIndex].src)[0]);
       setNowPlaying(playlist[songIndex].title);
@@ -51,7 +51,7 @@ const MusicPlayer = () => {
     stop();
     setPlaying(false);
     //console.log(songIndex);
-    if (songIndex == 0) {
+    if (songIndex === 0) {
       setSongIndex(playlist.length-1);
       setSoundUrl(Object.values(playlist[songIndex].src)[0]);
       setNowPlaying(playlist[songIndex].title);
