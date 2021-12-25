@@ -27,7 +27,7 @@ body, #root {
 }
 
 .scene-base {
-  background: url('./images/scene-base.jpg');
+  background: url('./images/scene-base.webp');
   background-color: #000;
   background-size: cover;
   background-repeat: no-repeat;
