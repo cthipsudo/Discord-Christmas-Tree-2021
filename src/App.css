@@ -12,7 +12,7 @@ body, #root {
 }
 
 .app-wrapper {
-  background: url(./images/dark-forest.webp);
+  background: url(./images/main-bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -38,7 +38,6 @@ body, #root {
 }
 
 header h1 {
-  
   color: white;
   text-shadow:
       3px 3px 0 #000,
@@ -47,3 +46,5 @@ header h1 {
      -1px 1px 0 #000,
       1px 1px 0 #000;
 }
+
+/* animations */
