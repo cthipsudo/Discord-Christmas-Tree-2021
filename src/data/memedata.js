@@ -1,0 +1,56 @@
+const memeData = [
+  {
+    pathName:'cowbois.webp',
+    nickname:'meme',
+  },
+  {
+    pathName:'dafrog.webp',
+    nickname:'meme',
+  },
+  {
+    pathName:'dnd-meme.webp',
+    nickname:'meme',
+  },
+  {
+    pathName:'gma-sean.webp',
+    nickname:'meme',
+  },
+  {
+    pathName:'jungie.webp',
+    nickname:'meme',
+  },
+  {
+    pathName:'man.webp',
+    nickname:'meme',
+  },
+  {
+    pathName:'ming.webp',
+    nickname:'meme',
+  },
+  {
+    pathName:'oski.webp',
+    nickname:'meme',
+  },
+  {
+    pathName:'quang.webp',
+    nickname:'meme',
+  },
+  {
+    pathName:'ror.webp',
+    nickname:'meme',
+  },
+  {
+    pathName:'sigma.webp',
+    nickname:'meme',
+  },
+  {
+    pathName:'sussy.webp',
+    nickname:'meme',
+  },
+  {
+    pathName:'t-ko.webp',
+    nickname:'meme',
+  },
+];
+
+export default memeData;

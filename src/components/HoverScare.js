@@ -19,7 +19,7 @@ const HoverScare = () => {
         setIsHovering(false);
         stop();
       }}
-      isHovering={isHovering}
+      
       className="hover-scare"
     ></div>
   );
