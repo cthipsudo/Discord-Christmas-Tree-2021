@@ -5,6 +5,7 @@ import Memebook from "./Memebook";
 import TreeStar from "./TreeStar";
 import DndBook from "./DndBook";
 import AmongDumpy from "./AmongDumpy";
+import MainTransition from "./MainTransition";
 
 function SceneBase() {
   return(
@@ -15,6 +16,7 @@ function SceneBase() {
       <DndBook />
       <Memebook />
       <AmongDumpy />
+      <MainTransition />
       <VtuberLayout />
     </div>
   );

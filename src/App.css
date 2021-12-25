@@ -123,6 +123,21 @@ body, #root {
   cursor: pointer;
 }
 
+.scene-base .main-trans {
+  position: absolute;
+  bottom: 0;
+  left: 200px;
+
+  height: 300px;
+  width: 300px;
+  background-image: url('./images/main/josh.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 1;
+  transition: 0.5s ease;
+  animation: main-anim 20s infinite ease;
+}
+
 .ReactModalPortal {
   position: relative;
   z-index: 2;
@@ -243,6 +258,46 @@ header h1 {
 }
 
 /* animations */
+
+@keyframes main-anim {
+  0%{
+    background-image: url('./images/main/josh.png');
+
+  }
+  30%{
+    background-image: rgb(0,0,0,0);
+    opacity: 0;
+  }
+  40%{
+    background-image: url('./images/main/makima.png');
+    opacity: 100;
+  }
+  50%{
+    background-image: rgb(0,0,0,0);
+    opacity: 0;
+  }
+  60%{
+    background-image: url('./images/main/nft.png');
+    opacity: 100;
+  }
+  70%{
+    background-image: rgb(0,0,0,0);
+    opacity: 0;
+  }
+  80%{
+    background-image: url('./images/main/turkey-sean.png');
+    opacity: 100;
+  }
+  90%{
+    background-image: rgb(0,0,0,0);
+    opacity: 0;
+  }
+  100%{
+    background-image: url('./images/main/josh.png');
+    opacity: 100;
+  }
+  
+}
 
 
 @media screen and (max-width: 1279px) {
