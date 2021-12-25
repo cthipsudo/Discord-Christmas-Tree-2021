@@ -1,7 +1,7 @@
 {
   "name": "my-first-react-app",
   "version": "0.1.0",
-  "homepage": "http://chiki-christmas.com",
+  "homepage": "https://chiki-christmas.com/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
