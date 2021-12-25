@@ -4,6 +4,7 @@ import "./App.css";
 import Header from "./components/Header";
 import SceneBase from "./components/SceneBase";
 import SnowBG from "./components/SnowBG";
+import DiscordMembers from "./components/DiscordMembers";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Header />
         <SnowBG />
         <SceneBase />
+        <DiscordMembers />
       </div>
     </div>
   );

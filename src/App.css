@@ -68,6 +68,23 @@ body, #root {
   display: initial;
 }
 
+.discord-members {
+  max-width: 1280px;
+}
+
+.discord-members .styles-module_item-container__a8zaY {
+  
+}
+
+.discord-members .member-name {
+  color: white;
+  text-shadow:
+      3px 3px 0 #000,
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+     -1px 1px 0 #000,
+      1px 1px 0 #000;
+}
 
 header h1 {
   color: white;
