@@ -165,6 +165,12 @@ body, #root {
       1px 1px 0 #000;
 }
 
+.music-player {
+  margin-top: 200px;
+  color: #000;
+  background-color: ivory;
+}
+
 header h1 {
   color: white;
   text-shadow:
