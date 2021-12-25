@@ -108,12 +108,25 @@ body, #root {
 .da-modal {
   height: 100%;
 }
+.da-modal h2 {
+  text-decoration: underline;
+  padding-top: 100px;
+}
 
 .da-modal img {
   height: 100%;
-  width: auto;
+  width: auto !important;
   max-height: 400px;
   cursor: pointer;
+}
+
+.da-modal .cara .slider-slide, .da-modal .cara .slider-list {
+  height: 100% !important;
+}
+.da-modal .cara .slider-slide {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
 }
 
 .discord-members {
