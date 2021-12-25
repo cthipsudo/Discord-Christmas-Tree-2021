@@ -9,7 +9,7 @@ function DiscordMembers() {
     //let srcKey = Object.values(member.pathName)[0];
     return(
       <div key={index} className='text-center'>
-        <img src={require(`../images/discord/${member.pathName}.webp`)} alt={member.nickname}></img>
+        <img src={require(`../images/discord/${member.pathName}`)} alt={member.nickname}></img>
         <p className='member-name'>{member.nickname}</p>
       </div>
     );
@@ -18,7 +18,7 @@ function DiscordMembers() {
   memberEl = Shuffle.shuffle(memberEl)
 
   return(
-    <Carousel className='discord-members w-full' show={10} slide={5} swiping={true} responsive={true}>
+    <Carousel className='discord-members w-full' show={10} slide={8} swiping={true} responsive={true}>
       {memberEl}
     </Carousel>
   );

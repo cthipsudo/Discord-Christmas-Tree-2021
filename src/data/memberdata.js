@@ -1,135 +1,237 @@
-import Archane from '../images/discord/archane.webp'
-import Arfyre from '../images/discord/arfyre.webp'
-import Athlete from '../images/discord/athlete.webp'
-import Atkins from '../images/discord/atkins.webp'
-import Bill from '../images/discord/bill.webp'
-import Brian from '../images/discord/brian.webp'
-import Bright from '../images/discord/bright.webp'
-import Broto from '../images/discord/broto.webp'
-import Chase from '../images/discord/chase.webp'
-import Chaxx from '../images/discord/chaxx.webp'
-
-import Dannie from '../images/discord/dannie.webp';
-import Dayni from '../images/discord/dayni.webp';
-import Dio from '../images/discord/dio.webp';
-import Drew from '../images/discord/drew.webp';
-import Engerino from '../images/discord/engerino.webp';
-import Eric from '../images/discord/eric.webp';
-import FreeBritney from '../images/discord/freebritney.webp';
-import Genvissa from '../images/discord/genvissa.webp';
-import Godly from '../images/discord/godly.webp';
-import Jacob from '../images/discord/jacob.webp';
-import Jae from '../images/discord/jae.webp';
-import Joni from '../images/discord/joni.webp';
-import Jonny from '../images/discord/jonny.webp';
-import Josh from '../images/discord/josh.webp';
-import Juan from '../images/discord/juan.webp';
-import Jungie from '../images/discord/jungie.webp';
-
-import RyuUsagi from '../images/discord/ryuusagi.webp'
-
 
 const members = [
   {
-    pathName: 'archane',
+    pathName: 'archane.webp',
     nickname: 'Archane',
   },
   {
-    pathName: 'arfyre',
+    pathName: 'arfyre.webp',
     nickname: 'Arfyre',
   },
   {
-    pathName: 'athlete',
+    pathName: 'athlete.webp',
     nickname: 'Athlete',
   },
-  { pathName: 'atkins',
+  { pathName: 'atkins.webp',
     nickname : 'Atkins'
   },
-  { pathName: 'bill',
-    nickname : 'Bill'
+  { pathName: 'bill.webp',
+    nickname : 'Kindron'
   },
-  { pathName: 'brian',
+  { pathName: 'brian.webp',
     nickname : 'Brian'
   },
-  { pathName: 'bright',
+  { pathName: 'bright.webp',
     nickname : 'Bright'
   },
-  { pathName: 'broto',
-    nickname : 'Broto'
+  { pathName: 'broto.webp',
+    nickname : 'TJ'
   },
-  { pathName: 'chase',
+  { pathName: 'chase.webp',
     nickname : 'Chase'
   },
-  { pathName: 'chaxx',
-    nickname : 'Chaxx'
+  { pathName: 'chaxx.webp',
+    nickname : 'GoNoxas'
   },
   {
-    pathName: 'dannie',
+    pathName: 'dannie.webp',
     nickname: 'Dannie',
   },
   {
-    pathName: 'dayni',
+    pathName: 'dayni.webp',
     nickname: 'Dayni',
   },
   {
-    pathName: 'dio',
-    nickname: 'Dio',
+    pathName: 'dio.webp',
+    nickname: 'BasicNiggaDio',
   },
   {
-    pathName: 'drew',
-    nickname: 'Drew',
+    pathName: 'drew.webp',
+    nickname: 'Dobby',
   },
   {
-    pathName: 'engerino',
+    pathName: 'engerino.webp',
     nickname: 'Engerino',
   },
   {
-    pathName: 'eric',
-    nickname: 'Eric',
+    pathName: 'eric.webp',
+    nickname: 'danmakafu',
   },
   {
-    pathName: 'freebritney',
-    nickname: 'FreeBritney',
+    pathName: 'freebritney.webp',
+    nickname: 'Leave Britney Alone',
   },
   {
-    pathName: 'genvissa',
+    pathName: 'genvissa.webp',
     nickname: 'Genvissa',
   },
   {
-    pathName: 'godly',
-    nickname: 'Godly',
+    pathName: 'godly.webp',
+    nickname: 'Godlygoodie',
   },
   {
-    pathName: 'jacob',
-    nickname: 'Jacob',
+    pathName: 'jacob.webp',
+    nickname: 'JacobCT25',
   },
   {
-    pathName: 'jae',
-    nickname: 'Jae',
+    pathName: 'jae.webp',
+    nickname: 'Jae/Tautology',
   },
   {
-    pathName: 'joni',
+    pathName: 'joni.webp',
     nickname: 'Joni',
   },
   {
-    pathName: 'jonny',
+    pathName: 'jonny.webp',
     nickname: 'Jonny',
   },
   {
-    pathName: 'josh',
+    pathName: 'josh.webp',
     nickname: 'Josh',
   },
   {
-    pathName: 'juan',
-    nickname: 'Juan',
+    pathName: 'juan.webp',
+    nickname: 'Buan',
   },
   {
-    pathName: 'jungie',
+    pathName: 'jungie.webp',
     nickname: 'Jungie',
   },
   {
-    pathName: 'ryuusagi',
+    pathName: 'kami.webp',
+    nickname: 'Kami',
+  },
+  {
+    pathName: 'kase.webp',
+    nickname: 'Kase505',
+  },
+  {
+    pathName: 'kitteycon.webp',
+    nickname: 'krabbo',
+  },
+  {
+    pathName: 'kuzari.webp',
+    nickname: 'Kuzari',
+  },
+  {
+    pathName: 'leixia.webp',
+    nickname: 'Leixia',
+  },
+  {
+    pathName: 'lily.webp',
+    nickname: 'leelee',
+  },
+  {
+    pathName: 'lokuri.gif',
+    nickname: 'Lokuri',
+  },
+  {
+    pathName: 'maggie.webp',
+    nickname: 'Magician',
+  },
+  {
+    pathName: 'manmoon.webp',
+    nickname: 'Man on the Moon',
+  },
+  {
+    pathName: 'mettrowolf.webp',
+    nickname: 'Mettrowolf',
+  },
+  {
+    pathName: 'mikeu.webp',
+    nickname: 'Mikeu',
+  },
+  {
+    pathName: 'mokomoon.webp',
+    nickname: 'Mokomoon',
+  },
+  {
+    pathName: 'orhythm.webp',
+    nickname: 'Lulu',
+  },
+  {
+    pathName: 'panda.webp',
+    nickname: 'Panda',
+  },
+  {
+    pathName: 'phetty.webp',
+    nickname: 'Phetty_cent',
+  },
+  {
+    pathName: 'poetaytoe.webp',
+    nickname: 'PoeTayToe',
+  },
+  {
+    pathName: 'ranger.webp',
+    nickname: 'RangerPink',
+  },
+  {
+    pathName: 'redki.gif',
+    nickname: 'KingBlade',
+  },
+  {
+    pathName: 'rian.webp',
+    nickname: 'Lahabread',
+  },
+  {
+    pathName: 'ricky.webp',
+    nickname: 'Joolian',
+  },
+  {
+    pathName: 'robbie.webp',
+    nickname: 'Robbie',
+  },
+  {
+    pathName: 'robin.webp',
+    nickname: 'Robin',
+  },
+  {
+    pathName: 'rurumo.webp',
+    nickname: 'Rurumo',
+  },
+  {
+    pathName: 'ryuusagi.webp',
     nickname: 'RyuUsagi',
+  },
+  {
+    pathName: 'soul.webp',
+    nickname: 'Donkey Kong',
+  },
+  {
+    pathName: 'sun.webp',
+    nickname: 'Sunny Diglett',
+  },
+  {
+    pathName: 'superjuj.webp',
+    nickname: 'Superjuj',
+  },
+  {
+    pathName: 'tatsuki.webp',
+    nickname: 'Tatsuki',
+  },
+  {
+    pathName: 'thrillz.webp',
+    nickname: 'Thrillz',
+  },
+  {
+    pathName: 'tiger.webp',
+    nickname: 'Tiger(Niko)',
+  },
+  {
+    pathName: 'trainers.webp',
+    nickname: 'Trainers hate him',
+  },
+  {
+    pathName: 'turtle.webp',
+    nickname: 'Turtle',
+  },
+  {
+    pathName: 'whodatdude.webp',
+    nickname: 'whodatdude',
+  },
+  {
+    pathName: 'zyro.webp',
+    nickname: 'Zyro',
   },
 ];
 
