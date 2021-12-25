@@ -4,6 +4,7 @@ import HoverScare from "./HoverScare";
 import Memebook from "./Memebook";
 import TreeStar from "./TreeStar";
 import DndBook from "./DndBook";
+import AmongDumpy from "./AmongDumpy";
 
 function SceneBase() {
   return(
@@ -13,6 +14,7 @@ function SceneBase() {
       <TreeStar />
       <DndBook />
       <Memebook />
+      <AmongDumpy />
       <VtuberLayout />
     </div>
   );

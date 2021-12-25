@@ -109,6 +109,20 @@ body, #root {
   background-size: contain;
 }
 
+.scene-base .among-us {
+  position: absolute;
+  bottom: 30px;
+  right: 650px;
+
+  height: 50px;
+  width: 50px;
+  z-index: 2;
+  background-image: url('./images/among-us.gif');
+  background-size: contain;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
 .ReactModalPortal {
   position: relative;
   z-index: 2;
