@@ -177,11 +177,37 @@ body, #root {
   background-color: #fff;
   transition: 0.5s ease;
   padding: 8px;
-  z-index: 3;
+  z-index: 2;
 }
 
 .music-player .not-playing {
   color: #aaa;
+}
+
+.dnd-book {
+  position: absolute;
+  bottom: 150px;
+  left: 430px;
+
+  height: 50px;
+  width: 120px;
+  z-index: 2;
+}
+
+.dnd-modal .slider-slide {
+  display: flex !important;
+  height: auto !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.dnd-modal img {
+  height: 100% !important;
+  width: auto !important;
+}
+
+.franz-vid {
+  max-height: 800px;
 }
 
 .mobile-max-check {
@@ -189,7 +215,7 @@ body, #root {
 }
 
 header{
-  margin-top: 200px;
+  margin-top: 220px;
 }
 
 header h1 {

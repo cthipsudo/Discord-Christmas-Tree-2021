@@ -8,10 +8,6 @@ const memeData = [
     nickname:'meme',
   },
   {
-    pathName:'dnd-meme.webp',
-    nickname:'meme',
-  },
-  {
     pathName:'gma-sean.webp',
     nickname:'meme',
   },

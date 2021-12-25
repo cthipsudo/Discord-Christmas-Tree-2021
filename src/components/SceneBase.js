@@ -3,6 +3,7 @@ import DestinyTitle from "./DestinyTitle";
 import HoverScare from "./HoverScare";
 import Memebook from "./Memebook";
 import TreeStar from "./TreeStar";
+import DndBook from "./DndBook";
 
 function SceneBase() {
   return(
@@ -10,6 +11,7 @@ function SceneBase() {
       <DestinyTitle />
       <HoverScare />
       <TreeStar />
+      <DndBook />
       <Memebook />
       <VtuberLayout />
     </div>
