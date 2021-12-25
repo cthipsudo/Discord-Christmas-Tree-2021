@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Discord-Christmas-Tree-2021/static/css/main.c17704d2.css",
-    "main.js": "/Discord-Christmas-Tree-2021/static/js/main.c0ab1d57.js",
+    "main.css": "/Discord-Christmas-Tree-2021/static/css/main.260f5709.css",
+    "main.js": "/Discord-Christmas-Tree-2021/static/js/main.3609d826.js",
     "static/js/845.b060b3f7.chunk.js": "/Discord-Christmas-Tree-2021/static/js/845.b060b3f7.chunk.js",
     "static/media/main-bg.webp": "/Discord-Christmas-Tree-2021/static/media/main-bg.c0d9c6e481a89ac0f2ff.webp",
     "static/media/cowbois.webp": "/Discord-Christmas-Tree-2021/static/media/cowbois.a0c4f16ca3080edd897f.webp",
@@ -86,12 +86,12 @@
     "static/media/juan.webp": "/Discord-Christmas-Tree-2021/static/media/juan.e8a51cad5c9abcfe3ed6.webp",
     "static/media/leixia.webp": "/Discord-Christmas-Tree-2021/static/media/leixia.45f9efe08fff796aad36.webp",
     "index.html": "/Discord-Christmas-Tree-2021/index.html",
-    "main.c17704d2.css.map": "/Discord-Christmas-Tree-2021/static/css/main.c17704d2.css.map",
-    "main.c0ab1d57.js.map": "/Discord-Christmas-Tree-2021/static/js/main.c0ab1d57.js.map",
+    "main.260f5709.css.map": "/Discord-Christmas-Tree-2021/static/css/main.260f5709.css.map",
+    "main.3609d826.js.map": "/Discord-Christmas-Tree-2021/static/js/main.3609d826.js.map",
     "845.b060b3f7.chunk.js.map": "/Discord-Christmas-Tree-2021/static/js/845.b060b3f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c17704d2.css",
-    "static/js/main.c0ab1d57.js"
+    "static/css/main.260f5709.css",
+    "static/js/main.3609d826.js"
   ]
 }
