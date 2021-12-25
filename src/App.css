@@ -167,8 +167,18 @@ body, #root {
 
 .music-player {
   margin-top: 200px;
+  height: auto;
+  width: fit-content;
   color: #000;
-  background-color: ivory;
+  border: #fff solid 2px;
+  border-radius: 0.25rem;
+  background-color: #fff;
+  transition: 0.5s ease;
+  padding: 8px;
+}
+
+.music-player .not-playing {
+  color: #aaa;
 }
 
 header h1 {
