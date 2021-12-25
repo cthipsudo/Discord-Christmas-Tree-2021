@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/Discord-Christmas-Tree-2021/static/css/main.f761a92f.css",
-    "main.js": "/Discord-Christmas-Tree-2021/static/js/main.eeea8a2b.js",
-    "static/media/dark-forest.webp": "/Discord-Christmas-Tree-2021/static/media/dark-forest.1b5a3a8ca8518c91ed4b.webp",
-    "static/media/scene-base.jpg": "/Discord-Christmas-Tree-2021/static/media/scene-base.3dae58e07adf1ccb55a7.jpg",
+    "main.css": "/Discord-Christmas-Tree-2021/static/css/main.72c5ab99.css",
+    "main.js": "/Discord-Christmas-Tree-2021/static/js/main.c151535c.js",
+    "static/media/main-bg.webp": "/Discord-Christmas-Tree-2021/static/media/main-bg.c0d9c6e481a89ac0f2ff.webp",
+    "static/media/scene-base.jpg": "/Discord-Christmas-Tree-2021/static/media/scene-base.8415739deb3261cf268b.jpg",
+    "static/media/brosemi.png": "/Discord-Christmas-Tree-2021/static/media/brosemi.fa8cbace89ecba6a5ae2.png",
+    "static/media/millie.png": "/Discord-Christmas-Tree-2021/static/media/millie.68147115c51a7e3aff2b.png",
+    "static/media/elira.png": "/Discord-Christmas-Tree-2021/static/media/elira.cfcbad3d6b5e964f5b68.png",
+    "static/media/finana.png": "/Discord-Christmas-Tree-2021/static/media/finana.1e0ce7efae49db4610ab.png",
+    "static/media/gura.gif": "/Discord-Christmas-Tree-2021/static/media/gura.afe742503b352a30cd47.gif",
     "index.html": "/Discord-Christmas-Tree-2021/index.html",
-    "main.f761a92f.css.map": "/Discord-Christmas-Tree-2021/static/css/main.f761a92f.css.map",
-    "main.eeea8a2b.js.map": "/Discord-Christmas-Tree-2021/static/js/main.eeea8a2b.js.map"
+    "main.72c5ab99.css.map": "/Discord-Christmas-Tree-2021/static/css/main.72c5ab99.css.map",
+    "main.c151535c.js.map": "/Discord-Christmas-Tree-2021/static/js/main.c151535c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f761a92f.css",
-    "static/js/main.eeea8a2b.js"
+    "static/css/main.72c5ab99.css",
+    "static/js/main.c151535c.js"
   ]
 }
