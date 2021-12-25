@@ -276,6 +276,7 @@ header h1 {
     opacity: 100;
   }
   100%{
+    background-image: url('./images/main/josh.png');
     opacity: 0;
   }
 }
